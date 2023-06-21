@@ -1,0 +1,121 @@
+﻿==========================================================================================
+
+* Bài toán
+
+Có một bài toán được đưa ra từ phía khách hàng, cần một người từ phía công ty phần mềm làm trung gian để lắng nghe và thu thập yêu cầu, sau đó triển khai lại cho đội ngũ triển khai phần mềm.
+
+	- Phải hiểu được nghiệp vụ và các "thuật ngữ chuyên ngành" của khách hàng.
+
+	- Không sử dụng các "thuật ngữ chuyên ngành CNTT" để nói chuyện với khách hàng.
+
+		Ví dụ 1: Một bệnh viện.
+			- Bệnh nhân.
+			- Xét nghiệm.
+			- Các loại bệnh.
+			- Đơn thuốc.
+			- ...
+
+		Ví dụ 2: Quản lý bán hàng.
+			- Khách hàng.
+			- Chăm sóc khách hàng.
+			- Theo dõi trạng thái đơn hàng.
+				+ Đã huỷ.
+				+ Đang giao.
+				+ Đã hoàn thành.
+			- Quản lý giỏ hàng.
+			- ...
+
+==========================================================================================
+
+* IT BA: Kỹ sư phân tích nghiệp vụ khách hàng.
+
+* BrSE: Kỹ sư cầu nối.
+
+Khách hàng 				BA / BrSE				Công ty (phần mềm)
+		--------------------Requirements------------------->
+		<--------Features, functions/functionalities--------
+
+--------------------------------------------------------------------------------
+
+* Người IT BA (IT Business Analyst): kỹ sư phân tích nghiệp vụ khách hàng (trong lĩnh vực CNTT). Làm việc trực tiếp để hiểu nhu cầu của khách hàng ở góc độ phần mềm và công việc hằng ngày của khách hàng để tin học hoá hoặc cải tiến.
+
+(Trong khối ngành kinh tế: thăm dò tình hình, cơ cấu tổ chức, cách vận hành của công ty... để tìm cách tối ưu, cắt bỏ những công đoạn thừa... giúp công ty có hiệu quả kinh doanh tốt hơn.)
+
+	- Nên có xuất thân từ IT để biết được độ khó khi triển khai một tính năng.
+
+		Ví dụ:
+			* Khách hàng: Yêu cầu hệ thống có bảo mật cao.
+
+			* BA / BrSE:
+
+				- Tư vấn giải pháp:
+					+ Vân tay.
+					+ Mống mắt.
+					+ Võng mạc.
+
+				- Tư vấn về chi phí khi thêm những tính năng phức tạp.
+
+	- Business Analyst sẽ là người đi phân tích và giải quyết các vấn đề theo chính xác quy trình:
+		Business Objectives
+			-> Stakeholders
+				-> Solution
+					-> Transition
+		(Xác định Business Objectives >> làm việc với Stakeholders >> đề xuất Solutions >> chuyển hoá Transition)
+
+------------------------------------------------------------
+
+	01. Business Objective: mục tiêu phải giải quyết được các vấn đề mà doanh nghiệp đang gặp phải. Đa phần thì khách hàng cũng không biết họ muốn gì, hoặc họ muốn quá nhiều khiến cho BA rất khó để xác định được mục tiêu thật sự của khách hàng.
+
+	02. Stakeholders: các bên có liên quan, người sẽ giữ vai trò quyết định rất quan trọng.
+
+	03. Solution: giải pháp để giải quyết được mục tiêu. Không hạn chế chỉ là một hệ thống, phần mềm mà còn có thể là việc thay đổi chính sách, quy trình trong doanh nghiệp hay đơn thuần là training lại cho doanh nghiệp.
+
+	04. Transition: xây dựng và triển khai giải pháp, biến hiện trạng của doanh nghiệp ở thời điểm hiện tại thành trạng thái mong muốn trong tương lai.
+
+--------------------------------------------------------------------------------
+
+* BrSE (Bridge Software Engineer): kỹ sư cầu nối (đặc thù trong thị trường Nhật Bản).
+
+==========================================================================================
+
+--------------------------------------------------------------------------------
+
+------------------------------------------------------------
+
+----------------------------------------
+
+--------------------
+
+----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
